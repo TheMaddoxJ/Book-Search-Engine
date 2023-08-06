@@ -50,5 +50,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## URL's:
 
-Repo: https://github.com/TheMaddoxJ/Book-Search-Engine-Final
-Deployed:
+Repo: https://github.com/TheMaddoxJ/Book-Search-Engine-Final <br>
+Deployed: https://mysterious-dawn-05909-bba988f21a73.herokuapp.com/ <br>
